@@ -24,7 +24,19 @@ Desarrollador con una mentalidad forjada en la gestión de operaciones críticas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **Herramientas & IA**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+#### 🚀 [LineUp](https://github.com/ABarboza7) | ![Status](https://img.shields.io/badge/Status-Beta%20Cerrada-orange?style=flat-square)
+*Plataforma SaaS inteligente para la optimización de colas y logística de servicios.*
+
+- **Inteligencia Artificial:** Implementación de **Google Gemini AI** para la gestión de un asistente conversacional predictivo y automatización de flujos.
+- **Geolocalización:** Integración avanzada de **Google Maps API** para el seguimiento de turnos en tiempo real y optimización de rutas críticas.
+- **Mensajería Real-time:** Comunicación bidireccional instantánea cliente-servidor mediante **Socket.io**.
+- **Stack:** `React` • `Python/Flask` • `Google Gemini AI` • `Google Maps API` • `Socket.io` • `Cloudinary` • `PostgreSQL`
 
 ---
 
