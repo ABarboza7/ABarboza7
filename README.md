@@ -45,9 +45,7 @@ Desarrollador con una mentalidad forjada en la gestión de operaciones críticas
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABarboza7&show_icons=true&theme=radical&v=1" alt="Estadísticas de Abraham" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABarboza7&layout=compact&theme=radical&v=1" alt="Top Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABarboza7&theme=radical" alt="Estadísticas de Abraham" />
 </p>
 
 ---
