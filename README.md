@@ -55,8 +55,8 @@ Desarrollador con una mentalidad forjada en la gestión de operaciones críticas
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABarboza7&theme=radical" alt="Estadísticas de Abraham" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABarboza7&theme=radical" alt="Racha de GitHub" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABarboza7&theme=radical&utcOffset=-4" alt="Horario Productivo" />
 </p>
 
